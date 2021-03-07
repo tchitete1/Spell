@@ -13,15 +13,15 @@ displays various measures relating to spell-checking execution along with overal
 
 ### Installation
 
-1. Install the Recap archive by downloading [```Spell-master.zip```](https://github.com/tchitete1/Spell/archive/master.zip)
+1. Install the ```spell-master``` archive by downloading [```spell-master.zip```](https://github.com/tchitete1/spell/archive/master.zip)
 2. Open a new terminal window in the directory where the archive was downloaded
-3. Unzip the archive using the following command to obtain the ```Spell-master``` directory:
+3. Unzip the archive using the following command to obtain the ```spell-master``` directory:
 ```
-unzip Spell-master.zip
+unzip spell-master.zip
 ```
-4. Change into the ```Spell-master``` directory by executing the following command:
+4. Change into the ```spell-master``` directory by executing the following command:
 ```
-cd Spell-master
+cd spell-master
 ```
 
 ### Compilation
@@ -65,7 +65,7 @@ TIME IN TOTAL:        0.14
 
 ### Restoration
 
-* To restore the ```Spell-master``` directory back to its original state, execute the following command:
+* To restore the ```spell-master``` directory back to its original state, execute the following command:
 ```
 make clean
 ```
